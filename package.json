@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.fefek5.resources-scriptable-object-singleton-system",
+  "version": "1.0.0",
+  "displayName": "Resources Scriptable Object",
+  "description": "A singleton system for managing Scriptable Objects in Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "fefek5",
+    "url": "https://github.com/jfderegowski"
+  }
+}
